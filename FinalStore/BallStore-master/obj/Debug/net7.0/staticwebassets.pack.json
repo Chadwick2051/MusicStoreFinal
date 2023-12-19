@@ -1,0 +1,697 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MusicStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MusicStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\0112-Hours-Before.jpg",
+      "PackagePath": "staticwebassets\\images\\0112-Hours-Before.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\0122.jpg",
+      "PackagePath": "staticwebassets\\images\\0122.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\013.jpg",
+      "PackagePath": "staticwebassets\\images\\013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01A&W.jpg",
+      "PackagePath": "staticwebassets\\images\\01A&W.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Advantage.jpg",
+      "PackagePath": "staticwebassets\\images\\01Advantage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01All-My-Life.jpg",
+      "PackagePath": "staticwebassets\\images\\01All-My-Life.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01An-Ending.jpg",
+      "PackagePath": "staticwebassets\\images\\01An-Ending.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Back-On-74.jpg",
+      "PackagePath": "staticwebassets\\images\\01Back-On-74.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Boreal-Kiss-Pt-1.jpg",
+      "PackagePath": "staticwebassets\\images\\01Boreal-Kiss-Pt-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Cheeks.jpg",
+      "PackagePath": "staticwebassets\\images\\01Cheeks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Closure.jpg",
+      "PackagePath": "staticwebassets\\images\\01Closure.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Dedication.jpg",
+      "PackagePath": "staticwebassets\\images\\01Dedication.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Eternity.jpg",
+      "PackagePath": "staticwebassets\\images\\01Eternity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Familiar.jpg",
+      "PackagePath": "staticwebassets\\images\\01Familiar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Fast-Car.jpg",
+      "PackagePath": "staticwebassets\\images\\01Fast-Car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01First-Person-Shooter.jpg",
+      "PackagePath": "staticwebassets\\images\\01First-Person-Shooter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Flowers.jpg",
+      "PackagePath": "staticwebassets\\images\\01Flowers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01From-The-Start.jpg",
+      "PackagePath": "staticwebassets\\images\\01From-The-Start.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Good-Lies.jpg",
+      "PackagePath": "staticwebassets\\images\\01Good-Lies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Introverted-Soul.jpg",
+      "PackagePath": "staticwebassets\\images\\01Introverted-Soul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Is-It-Over-Now.jpg",
+      "PackagePath": "staticwebassets\\images\\01Is-It-Over-Now.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Last-Night.jpg",
+      "PackagePath": "staticwebassets\\images\\01Last-Night.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Like-Me.jpg",
+      "PackagePath": "staticwebassets\\images\\01Like-Me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01LosT.jpg",
+      "PackagePath": "staticwebassets\\images\\01LosT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Mahaba.jpg",
+      "PackagePath": "staticwebassets\\images\\01Mahaba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Malani.jpg",
+      "PackagePath": "staticwebassets\\images\\01Malani.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Man-Down.jpg",
+      "PackagePath": "staticwebassets\\images\\01Man-Down.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01My-Love-Mine-All-Mine.jpg",
+      "PackagePath": "staticwebassets\\images\\01My-Love-Mine-All-Mine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Next-Thing-You-Know.jpg",
+      "PackagePath": "staticwebassets\\images\\01Next-Thing-You-Know.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01One-More-Time.jpg",
+      "PackagePath": "staticwebassets\\images\\01One-More-Time.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01One-Of-Your-Girls.jpg",
+      "PackagePath": "staticwebassets\\images\\01One-Of-Your-Girls.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Otsma.jpg",
+      "PackagePath": "staticwebassets\\images\\01Otsma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Paint-The-Town-Red.jpg",
+      "PackagePath": "staticwebassets\\images\\01Paint-The-Town-Red.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Princess-Diana.jpg",
+      "PackagePath": "staticwebassets\\images\\01Princess-Diana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Rescued.jpg",
+      "PackagePath": "staticwebassets\\images\\01Rescued.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Running-Out-of-Time.jpg",
+      "PackagePath": "staticwebassets\\images\\01Running-Out-of-Time.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Soon-We'll-Make-It.jpg",
+      "PackagePath": "staticwebassets\\images\\01Soon-We'll-Make-It.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Sprinter.jpg",
+      "PackagePath": "staticwebassets\\images\\01Sprinter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Strong.jpg",
+      "PackagePath": "staticwebassets\\images\\01Strong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01The-Mouthchew-Pt-2.jpg",
+      "PackagePath": "staticwebassets\\images\\01The-Mouthchew-Pt-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01True-Blue.jpg",
+      "PackagePath": "staticwebassets\\images\\01True-Blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Twinkle.jpg",
+      "PackagePath": "staticwebassets\\images\\01Twinkle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Vampire-Empire.jpg",
+      "PackagePath": "staticwebassets\\images\\01Vampire-Empire.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Vampire.jpg",
+      "PackagePath": "staticwebassets\\images\\01Vampire.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Watermelon-Moonshine.jpg",
+      "PackagePath": "staticwebassets\\images\\01Watermelon-Moonshine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Welcome-To-My-Island.jpg",
+      "PackagePath": "staticwebassets\\images\\01Welcome-To-My-Island.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01White-Horse.jpg",
+      "PackagePath": "staticwebassets\\images\\01White-Horse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01Will-Anybody-Ever-Love-Me.jpg",
+      "PackagePath": "staticwebassets\\images\\01Will-Anybody-Ever-Love-Me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\01why-my-love.jpg",
+      "PackagePath": "staticwebassets\\images\\01why-my-love.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\02Lost.jpg",
+      "PackagePath": "staticwebassets\\images\\02Lost.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Home\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\Home\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Home\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\Home\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Home\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\Home\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Home\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\Home\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Home\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\Home\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Home\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\Home\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Home\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\Home\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Home\\logo.png",
+      "PackagePath": "staticwebassets\\images\\Home\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\0112-Hours-BeforeTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\0112-Hours-BeforeTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\0122TN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\0122TN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\013TN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\013TN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01A&WTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01A&WTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01AdvantageTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01AdvantageTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01All-My-LifeTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01All-My-LifeTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01An-EndingTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01An-EndingTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Back-On-74TN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Back-On-74TN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Boreal-Kiss-Pt-1TN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Boreal-Kiss-Pt-1TN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01CheeksTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01CheeksTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01ClosureTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01ClosureTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01DedicationTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01DedicationTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01EternityTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01EternityTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01FamiliarTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01FamiliarTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Fast-CarTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Fast-CarTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01First-Person-ShooterTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01First-Person-ShooterTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01FlowersTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01FlowersTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01From-The-StartTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01From-The-StartTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Good-LiesTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Good-LiesTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Introverted-SoulTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Introverted-SoulTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Is-It-Over-NowTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Is-It-Over-NowTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Last-NightTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Last-NightTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Like-MeTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Like-MeTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01LosTTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01LosTTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01MahabaTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01MahabaTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01MalaniTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01MalaniTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Man-DownTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Man-DownTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01My-Love-Mine-All-MineTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01My-Love-Mine-All-MineTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Next-Thing-You-KnowTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Next-Thing-You-KnowTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01One-More-TimeTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01One-More-TimeTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01One-Of-Your-GirlsTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01One-Of-Your-GirlsTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01OtsmaTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01OtsmaTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Paint-The-Town-RedTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Paint-The-Town-RedTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Princess-DianaTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Princess-DianaTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01RescuedTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01RescuedTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Running-Out-of-TimeTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Running-Out-of-TimeTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Soon-We'll-Make-ItTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Soon-We'll-Make-ItTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01SprinterTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01SprinterTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01StrongTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01StrongTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01The-Mouthchew-Pt-2TN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01The-Mouthchew-Pt-2TN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01True-BlueTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01True-BlueTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01TwinkleTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01TwinkleTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Vampire-EmpireTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Vampire-EmpireTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01VampireTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01VampireTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Watermelon-MoonshineTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Watermelon-MoonshineTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Welcome-To-My-IslandTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Welcome-To-My-IslandTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01White-HorseTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01White-HorseTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01Will-Anybody-Ever-Love-MeTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01Will-Anybody-Ever-Love-MeTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\01why-my-loveTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\01why-my-loveTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\images\\Thumbnails\\02LostTN.jpg",
+      "PackagePath": "staticwebassets\\images\\Thumbnails\\02LostTN.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Chadwick Acison\\Desktop\\FinalStore\\BallStore-master\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MusicStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MusicStore.props",
+      "PackagePath": "build\\MusicStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MusicStore.props",
+      "PackagePath": "buildMultiTargeting\\MusicStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MusicStore.props",
+      "PackagePath": "buildTransitive\\MusicStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

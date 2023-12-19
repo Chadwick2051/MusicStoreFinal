@@ -1,0 +1,13 @@
+Digital Music store database
+Categories
+1.Pop - Vampire (Olivia Rodrigo), One Of Your Girls (Troye Sivan), Flowers (Miley Cyrus), From The Start (Laufey), Is It Over Now (Taylor Swift)
+2.Country - Watermelon Moonshine (Lainey Wilson), Last Night (Morgan Wallen), Fast Car (Luke Combs), Next Thing You Know (Jordan Davis), White Horse (Chris Stapleton)
+3.Hiphop - All My Life (Lil Durk), Paint The Town Red (Doja Cat), Sprinter (Dave), First Person Shooter (Drake), Princess Diana (Ice Spice)
+4.Electronic - Eternity (Anyma), Good Lies (Overmono), Strong (Romy), Back On 74 (Jungle), Welcome To My Island (Caroline Polacheck)
+5.Rock - Rescued (Foo Fighters), Running Out of Time (Paramore), One More Time (Blink-182), LosT (Bring Me The Horizon), Lost (Linken Park)
+6.Indie - My Love Mine All Mine (Mitski), Vampire Empire (Big Thief), True Blue (boygenius), A&W (Lana Del Ray), Will Anybody  Ever Love Me (Sufjan Stevens)
+7.R&B - 22 (JayO), Man Down (Julian Dysart), Advantage (MiLES.), Like Me (Kyle Lux), Familiar (Lekan) 
+8.Jazz - Soon We'll Make It (Cisco Swank), Closure (Sean Mason), why my love? (aja monet), Introverted Soul (Mohini Dey), Cheeks (Sam Greenfield)
+9.Ambient - An Ending (Brian Eno), #3 (Aphex Twin), The Mouthchew Pt 2 (Stars Of The Lid), Boreal Kiss Pt 1 (Tim Hecker), 12 Hours Before (Hildur Guonadottir)
+10.Reggae - Mahaba (Alikiba), Otsma (Big Bang Bishanya), Twinkle (Dexta Deps), Malani (Shufflers), Dedication (Vybz Kartel)
+

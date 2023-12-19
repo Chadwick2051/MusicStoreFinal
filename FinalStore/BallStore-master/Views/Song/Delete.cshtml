@@ -1,0 +1,12 @@
+﻿@model Song
+@{
+	ViewBag.Title = "Delete Song";
+}
+<h2 class="mb-3">Delete Song</h2>
+<form asp-action="Delete">
+	<input type="hidden" asp-for="SongId" />
+	<p>Are you sure you want to delete <strong>@Model.SongName</strong></p>
+	<button type="submit" class="btn btn-primary">Yes</button>
+	<a asp-action="List" class="btn btn-primary">No</a>
+</form>
+

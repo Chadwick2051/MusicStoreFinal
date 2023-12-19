@@ -1,0 +1,74 @@
+﻿@model SongViewModel
+@{
+	string title = Model.Action + "Song";
+	ViewBag.Title = title;
+}
+@section scripts {
+	<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+	<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+
+<h2 class="mb-3">@ViewBag.Title</h2>
+<div class="col-md-6 col-lg-4">
+	<form asp-action="Edit" method="post">
+@* 		<div asp-validation-summary="All" class="text-danger"></div> *@
+
+		<div class="mb-3">
+			<label asp-for="@Model.Song.SongName" class="form-label">Song Title:</label>
+			<input asp-for="@Model.Song.SongName" class="form-control" />
+			<span asp-validation-for="@Model.Song.SongName" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="@Model.Song.Artist" class="form-label">Artist:</label>
+			<input asp-for="@Model.Song.Artist" class="form-control" />
+			<span asp-validation-for="@Model.Song.Artist" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="@Model.Song.SongPrice" class="form-label">Song Price:</label>
+			<input asp-for="@Model.Song.SongPrice" class="form-control" />
+			<span asp-validation-for="@Model.Song.SongPrice" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="@Model.Song.SongImageUrl" class="form-label">Full Image Url (500px x 500px)</label>
+			<input asp-for="@Model.Song.SongImageUrl" class="form-control" />
+			<span asp-validation-for="@Model.Song.SongImageUrl" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="@Model.Song.SongImageThumbnailUrl" class="form-label">Thumbnail img (200 x 200)</label>
+			<input asp-for="@Model.Song.SongImageThumbnailUrl" class="form-control" />
+			<span asp-validation-for="@Model.Song.SongImageThumbnailUrl" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="@Model.Song.CategoryId" class="form-label">Category</label>
+			<select asp-for="@Model.Song.CategoryId" asp-items="@(new SelectList(Model.Categories,"CategoryId","CategoryName"))" class="form-select">
+				<option value="bruh">Select A Category</option>
+			</select>
+			<span asp-validation-for="@Model.Song.CategoryId" class="text-danger"></span>
+		</div>
+		<div class="form-check">
+			<label asp-for="@Model.Song.IsSongInStock" class="form-check-label">
+				In Stock?
+			</label>
+			<input asp-for="@Model.Song.IsSongInStock" class="form-check-input" value="True" type="checkbox" checked>
+			<span asp-validation-for="@Model.Song.IsSongInStock" class="text-danger"></span>
+		</div>
+		<div class="form-check">
+			<label asp-for="@Model.Song.IsSongOnSale" class="form-check-label">
+				On Sale? (Sale price must be entered above)
+			</label>
+			<input asp-for="@Model.Song.IsSongOnSale" class="form-check-input" value="True" type="checkbox">
+			<span asp-validation-for="@Model.Song.IsSongOnSale" class="text-danger"></span>
+		</div>
+		<div class="form-check">
+			<label asp-for="@Model.Song.SongId" class="form-label">
+				Enter ID (If exsisting item id must match)
+			</label>
+			<input asp-for="@Model.Song.SongId" class="form-control">
+			<span asp-validation-for="@Model.Song.SongId" class="text-danger"></span>
+		</div>
+		<span asp-validation-for="@Model.Song.SongId" class="text-danger"></span>
+		<button type="submit" class="btn btn-primary">Save</button>
+		<a asp-controller="Song" asp-action="List" class="btn btn-primary">Cancel</a>
+	</form>
+</div>
+

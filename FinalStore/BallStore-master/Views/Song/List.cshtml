@@ -1,0 +1,56 @@
+﻿@model SongListViewModel
+@{
+    int prevPage = (Model.Page)-1;
+    int crntPage = Model.Page;
+    int nextPage = (Model.Page)+1;
+
+}
+
+<h1>@Model.PageName</h1>
+<div class="row">
+@foreach (var song in Model.Songs)
+{
+    <div class="col-4">
+    <partial name="_SongPartial" model="song" />
+    </div>
+}
+</div>
+<nav>
+    <ul class="pagination justify-content-center">
+        @if(Model.Page <= 1)
+        {
+            <li class="page-item disabled">
+                <a class="page-link" asp-route-page="@prevPage" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+        }else
+        {
+            <li class="page-item">
+                <a class="page-link" asp-route-page="@prevPage" asp-route-category="@Model.CurrentCategory" asp-route-sale="@Model.SalesOrNot"
+                   asp-controller="Song" asp-action="List" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+        }        
+        @if(Model.Page >= 2)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-route-page="@prevPage" asp-route-category="@Model.CurrentCategory" asp-route-sale="@Model.SalesOrNot"
+                   asp-controller="Song" asp-action="List">@prevPage.ToString()</a></li>
+        }
+        <li class="page-item active" aria-current="page">
+            <a class="page-link" asp-route-page="@crntPage" asp-route-category="@Model.CurrentCategory" asp-route-sale="@Model.SalesOrNot"
+            asp-controller="Song" asp-action="List">@crntPage.ToString()</a></li>
+        <li class="page-item">
+            <a class="page-link" asp-route-page="@nextPage" asp-route-category="@Model.CurrentCategory" asp-route-sale="@Model.SalesOrNot"
+            asp-controller="Song" asp-action="List">@nextPage.ToString()</a></li>
+        <li class="page-item">
+            <a class="page-link" asp-route-page="@nextPage" asp-route-category="@Model.CurrentCategory" asp-route-sale="@Model.SalesOrNot"
+            asp-controller="Song" asp-action="List" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+            </a>
+        </li>
+    </ul>
+    <span><a asp-action="Add" class="btn btn-primary">Add Song</a></span>
+</nav>

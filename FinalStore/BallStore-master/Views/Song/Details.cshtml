@@ -1,0 +1,40 @@
+﻿@model Song
+
+<h1>@Model.SongName</h1>
+<div class="row">
+    <div class="col">
+        <img src="@Model.SongImageUrl" alt="@Model.SongName" />
+    </div>
+    <div class="col">
+        <div class="row">
+            <div class="col">
+                <h3>@Model.SongName</h3>
+                <p>@Model.Artist</p>
+            </div>
+            <div class="col">
+                <h3 class="text-end">@Model.SongPrice</h3>
+            </div>
+
+            
+        </div>
+        <div class="col">
+            <div class="addToCart">
+                <p class="button">
+                    <a class="btn btn-primary"
+                       asp-controller="ShoppingCart"
+                       asp-action="AddToShoppingCart"
+                       asp-route-songId="@Model.SongId">
+                        Add To Cart
+                    </a>
+                </p>
+            </div>
+            <div class="row m-5">
+                <a asp-action="Delete" asp-route-id=@Model.SongId class="btn btn-primary">Delete</a>
+
+            </div>
+            <div class="row m-5">
+                <a asp-action="Edit" asp-route-id=@Model.SongId class="btn btn-primary">Edit</a>
+            </div>
+        </div>
+    </div>
+</div>

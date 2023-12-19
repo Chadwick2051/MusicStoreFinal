@@ -1,0 +1,225 @@
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.RazorAssemblyInfo.cache
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.RazorAssemblyInfo.cs
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\appsettings.json
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\BallStore.staticwebassets.runtime.json
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\BallStore.exe
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\BallStore.deps.json
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\BallStore.runtimeconfig.json
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\BallStore.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\BallStore.pdb
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\staticwebassets\msbuild.BallStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\staticwebassets\msbuild.build.BallStore.props
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BallStore.props
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BallStore.props
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\scopedcss\bundle\BallStore.styles.css
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\scopedcss\projectbundle\BallStore.bundle.scp.css
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.csproj.CopyComplete
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\refint\BallStore.dll
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.pdb
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\BallStore.genruntimeconfig.cache
+C:\Users\jpscott\Desktop\BallStore\BallStore\BallStore\obj\Debug\net7.0\ref\BallStore.dll
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.RazorAssemblyInfo.cache
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.RazorAssemblyInfo.cs
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.dll
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\refint\BallStore.dll
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.pdb
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\appsettings.json
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\BallStore.staticwebassets.runtime.json
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\BallStore.exe
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\BallStore.deps.json
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\BallStore.runtimeconfig.json
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\BallStore.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\BallStore.pdb
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jpscott\Desktop\BallStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\staticwebassets\msbuild.BallStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\staticwebassets\msbuild.build.BallStore.props
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BallStore.props
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BallStore.props
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\scopedcss\bundle\BallStore.styles.css
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\scopedcss\projectbundle\BallStore.bundle.scp.css
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.csproj.CopyComplete
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\BallStore.genruntimeconfig.cache
+C:\Users\jpscott\Desktop\BallStore\obj\Debug\net7.0\ref\BallStore.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\appsettings.json
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\BallStore.staticwebassets.runtime.json
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\BallStore.exe
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\BallStore.deps.json
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\BallStore.runtimeconfig.json
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\BallStore.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\BallStore.pdb
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.csproj.AssemblyReference.cache
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.AssemblyInfoInputs.cache
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.AssemblyInfo.cs
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.csproj.CoreCompileInputs.cache
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.RazorAssemblyInfo.cache
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.RazorAssemblyInfo.cs
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\staticwebassets\msbuild.BallStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\staticwebassets\msbuild.build.BallStore.props
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BallStore.props
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BallStore.props
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\scopedcss\bundle\BallStore.styles.css
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\scopedcss\projectbundle\BallStore.bundle.scp.css
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.csproj.CopyComplete
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\refint\BallStore.dll
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.pdb
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\BallStore.genruntimeconfig.cache
+C:\Users\Chadwick Acison\Downloads\BallStore-master\BallStore-master\obj\Debug\net7.0\ref\BallStore.dll

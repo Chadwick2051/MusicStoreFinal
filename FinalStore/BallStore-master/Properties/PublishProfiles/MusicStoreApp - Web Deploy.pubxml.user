@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+j7SyuZ/zkyobV3GiGfbGwAAAAACAAAAAAAQZgAAAAEAACAAAAB9ghrIwMbF8ugGm+qVCI1RXvbf5Y/sEgrin1Tsk6sRRAAAAAAOgAAAAAIAACAAAADucZVC37HthY0wxxJ7jzUDBk28RqyeyHWG+iaDHL3vIYAAAAAB+ZAvqt84sK4ISKJKAAtHgvGW9HctlvxecKxKk7p9seiBq9UCadCZF3txr/i4/fousT5TcSNnawASNFRH0WzE1KXiZriOuZXXF7RzxaJ6pQxdIuXwnUeesVnJIv78uZa3gzTaJCCOV/FZFzbMe7DFfdB+ktWRHBS328faTirWQ0AAAAALgN8oQtxIYAXAnExXDqLcMcEAWLMYUK+Nnoc6D17wNsPa3VhzplyicesJv5wQXOjI/lIGs0+Jj3tRvCynUVsx</EncryptedPassword>
+    <History>True|2023-12-19T22:51:26.3554919Z;True|2023-12-19T16:48:12.6458856-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SongContext">
+      <Value>Data Source=sportsprofinaldbserver.database.windows.net,1433%3bInitial Catalog=MusicStore_db%3bUser ID=chadwick2051%3bPassword=Maxthedog2051</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="SongStore.Models.DataAccess.SongContext">
+      <Value>Data Source=sportsprofinaldbserver.database.windows.net,1433%3bInitial Catalog=MusicStore_db%3bUser ID=chadwick2051%3bPassword=Maxthedog2051</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

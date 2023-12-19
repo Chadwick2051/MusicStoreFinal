@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Chadwick Acison\Desktop\FinalStore\BallStore-master\obj\Release\net7.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Chadwick Acison\Desktop\FinalStore\BallStore-master\obj\Release\net7.0\PubTmp\EFSQLScripts\SongStore.Models.DataAccess.SongContext.sql" />
+</sitemanifest>
